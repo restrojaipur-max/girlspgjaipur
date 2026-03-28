@@ -245,7 +245,7 @@ export default function SafetyLocationSection() {
                 }}
               >
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.1!2d75.7396!3d26.9124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5b3a10b7e9d%3A0x4bb40f9e41c42c9!2sVaishali%20Nagar%2C%20Jaipur%2C%20Rajasthan!5e0!3m2!1sen!2sin!4v1711613000000!5m2!1sen!2sin"
+                  src="https://www.google.com/maps?q=26.8952688,75.7358181&output=embed"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
