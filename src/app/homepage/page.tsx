@@ -80,7 +80,7 @@ const organizationSchema = {
     { '@type': 'LocationFeatureSpecification', name: 'Power Backup', value: true },
     { '@type': 'LocationFeatureSpecification', name: 'Housekeeping', value: true },
   ],
-  hasMap: 'https://maps.google.com/?q=Vaishali+Nagar+Jaipur',
+  hasMap: 'google.com/maps/place/T.T.WEST+PARK-33+HEERA+NAGAR+A/@26.9069168,75.7374557,14z/data=!4m6!3m5!1s0x396db4be0ac157d7:0x1e721093cb275008!8m2!3d26.8952688!4d75.7358181!16s%2Fg%2F11cm43655m?hl=en&entry=ttu&g_ep=EgoyMDI2MDMyNC4wIKXMDSoASAFQAw%3D%3D',
   sameAs: [],
 };
 
